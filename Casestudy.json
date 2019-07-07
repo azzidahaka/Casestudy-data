@@ -1,0 +1,181 @@
+[
+	{
+		"Brand": "Asus",
+		"ID":"ACF",
+		"ProductName": "Asus Chrome Flip",
+		"GraphicName": "Black",
+		"Cost": 1000,
+		"MSRP": 1200,
+		"QtyOnHand": 10,
+		"QtyOnBackOrder": 100,
+		"Description": "Work anywhere online or offline regardless of the internet connection. Enjoy hours of games, entertainment, and keeping up with school, wherever it goes. "
+
+	},
+	{
+		"Brand": "Asus",
+		"ID":"AMD A9-9425",
+		"ProductName": "Asus X540BA-RB94",
+		"GraphicName": "White",
+		"Cost": 1100,
+		"MSRP": 1200,
+		"QtyOnHand": 100,
+		"QtyOnBackOrder": 120,
+		"Description": "AMD A9-9425 processor with Radeon R5 integrated graphics (up to 3.7GHz),15.6” HD (1366 x 768) display,1TB Hard Disk Drive,8GB DDR4 RAM Storage,802.11ac Wi-Fi, Ergonomic chiclet keyboard; Windows 10."
+
+	},
+	{
+		"Brand": "Asus",
+		"ID":"AM270",
+		"ProductName": "ASUS VivoBook Thin",
+		"GraphicName": "Gold",
+		"Cost": 1950,
+		"MSRP": 2000,
+		"QtyOnHand": 50,
+		"QtyOnBackOrder": 100,
+		"Description": "Comprehensive connections including USB 3.1 Type-C (Gen1), USB 3.0, USB 2.0, and HDMI; Lightning-fast 802.11ac Wi-Fi keeps you connected through any congestion or interference."
+
+	},
+	{
+		"Brand": "Asus",
+		"ID":"X540UA",
+		"ProductName": "Asus X540UA-AB31-CA",
+		"GraphicName": "Black",
+		"Cost": 1150,
+		"MSRP": 1400,
+		"QtyOnHand": 55,
+		"QtyOnBackOrder": 200,
+		"Description": "Lightning-fast 802.11ac dual antenna Wi-Fi keeps you connected through any congestion or interference."
+
+	},
+	{
+		"Brand": "Asus",
+		"ID":"VUT",
+		"ProductName": "Asus 15.6" VivoBook S Ultra Thin Laptop",
+		"GraphicName": "White",
+		"Cost": 1050,
+		"MSRP": 1150,
+		"QtyOnHand": 24,
+		"QtyOnBackOrder": 48,
+		"Description": "Comprehensive connections including USB 3.1 Type-C (gen 1), USB 3.0, USB 2.0, And HDMI; dual band 802.11ac Wi-Fi.Built-in Bluetooth V4.2."
+	},
+	{
+		"Brand": "Apple",
+		"ID":"AMM",
+		"ProductName": "Apple MacBook Air MJVM2LL",
+		"GraphicName": "White and Red",
+		"Cost": 700000,
+		"MSRP": 170000,
+		"QtyOnHand": 34,
+		"QtyOnBackOrder": 49,
+		"Description": "128GB SSD; Intel HD Graphics 6000 graphics processor; Two 3.0 USB ports; Standard 802.11a/b/g/n airport and Bluetooth 4.0 keep you connected; 38 W h Li-Poly Battery with 8 hours of battery life; Thunderbolt port. "
+
+	},
+	{
+		"Brand": "Apple",
+		"ID":"AMA",
+		"ProductName": "Apple MacBook Air",
+		"GraphicName": "White",
+		"Cost": 700000,
+		"MSRP": 140000,
+		"QtyOnHand": 34,
+		"QtyOnBackOrder": 49,
+		"Description": "Renewed products look and work like new. These pre-owned products have been inspected and tested by Amazon-qualified suppliers, which typically perform a full diagnostic test, replacement of any defective parts, and a thorough cleaning process. Packaging and accessories may be generic. All products on Amazon Renewed come with a minimum 90 day supplier-backed warranty..  "
+
+	},
+	{
+		"Brand": "Apple",
+		"ID":"AMP",
+		"ProductName": "Apple MacBook Pro ",
+		"GraphicName": "Black and White",
+		"Cost": 500000,
+		"MSRP": 500000,
+		"QtyOnHand": 90,
+		"QtyOnBackOrder": 510,
+		"Description": "Intel Core i5 Processor 2.4GHz^4GB SDRAM RAM^500GB 5400RPM Hard Drive^13.3-Inch Screen, Intel HD Graphics 3000^Mac OS X v10.7 Lion, 7 hours Battery Life."
+
+	},
+	{
+		"Brand": "Apple",
+		"ID":"AMQ",
+		"ProductName": "Apple MacBook Air ",
+		"GraphicName": "Black and White",
+		"Cost": 350000,
+		"MSRP": 350000,
+		"QtyOnHand": 100,
+		"QtyOnBackOrder": 250,
+		"Description": "Renewed products look and work like new. These pre-owned products have been inspected and tested by Amazon-qualified suppliers, which typically perform a full diagnostic test, replacement of any defective parts, and a thorough cleaning process. Packaging and accessories may be generic. All products on Amazon Renewed come with a minimum 90 day supplier-backed warranty.. "
+
+	},
+	{
+		"Brand": "Apple",
+		"ID":"MP",
+		"ProductName": "MacBook Pro",
+		"GraphicName": "Black and White",
+		"Cost": 500000,
+		"MSRP": 500000,
+		"QtyOnHand": 5,
+		"QtyOnBackOrder": 14,
+		"Description": "MacBook Pro 13.3 Laptop."
+
+	},
+	{
+		"Brand": "MSI",
+		"ID":"MGL",
+		"ProductName": "MSI GP63 8RE-202CA Leopard ",
+		"GraphicName": "BlackWhite Sole",
+		"Cost": 8000,
+		"MSRP": 5000,
+		"QtyOnHand": 74,
+		"QtyOnBackOrder": 114,
+		"Description": "Steel Series RBG Gaming Keyboard; Cooler Booster 5 (2 fans+7 pipes); MSI Giant Speaker; Nahimic Sound 3; USB 3.1; HDMI; MDP v1.2; Bluetooth 5.0; Killer Gaming Network E2400; Windows 10."
+
+	},
+	{
+		"Brand": "MSI",
+		"ID":"MGT",
+		"ProductName": "MSI GT83VR 7RF-200CA Titan",
+		"GraphicName": "Black",
+		"Cost": 50,
+		"MSRP": 50,
+		"QtyOnHand": 50,
+		"QtyOnBackOrder": 140,
+		"Description": "Special features: VR ready | mechanical cherry mx brown switch, RGB steel series keyboard 88 keys | thunderbolt 3 | dual killer gaming network e2500 | killer n1535 combo | metal build."
+
+	},
+	{
+		"Brand": "MSI",
+		"ID":"MGLL",
+		"ProductName": "MSI GP75 9SD-428CA Leopard",
+		"GraphicName": "White",
+		"Cost": 7500,
+		"MSRP": 8000,
+		"QtyOnHand": 5,
+		"QtyOnBackOrder": 12,
+		"Description": "SteelSeries Per-key RGB keyboard is best-suited for popular titles like Battlefield or Fortnite Report incorrect product information."
+
+	},
+	{
+		"Brand": "MSI",
+		"ID":"MP",
+		"ProductName": "MSI PS42 8M-097CA 14 Professional Laptop",
+		"GraphicName": "Grey",
+		"Cost": 5500,
+		"MSRP": 6000,
+		"QtyOnHand": 15,
+		"QtyOnBackOrder": 32,
+		"Description": "Slim and light with grey metallic design."
+
+	},
+	{
+		"Brand": "MSI",
+		"ID":"MGR",
+		"ProductName": "MSI GE73 8RF-077CA Raider",
+		"GraphicName": "Pink, Black",
+		"Cost": 3000,
+		"MSRP": 3500,
+		"QtyOnHand": 17,
+		"QtyOnBackOrder": 28,
+		"Description": "Per-Key RGB Keyboard; RBG rear mystic lighting; Killer Gaming Network E2500; Bluetooth 5.0; Nahimic 3 Sound; Coolerbost 5; Giant Speaker; USB 3.1; mDP v1.2; Windows 10 Home."
+
+	}
+]
